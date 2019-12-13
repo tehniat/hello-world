@@ -1,4 +1,5 @@
-# hello-world
-simplest hello world
-# hello -world updated
+# include <stdio.h>
+void main()
+{
 printf("hello world");
+}
